@@ -24,7 +24,8 @@ yarn dev
 
 ## On tutorial 3 on windows you need to install yarn 
 npm install --global yarn
-then check version --yan --version
+then check version --
+yarn --version
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
